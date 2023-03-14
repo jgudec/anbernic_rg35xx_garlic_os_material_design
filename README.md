@@ -10,3 +10,8 @@
 5. Place the modified boot_image.bmp into it and replace the original one
 6. Copy the rest from the theme's folder into the CFW/skins folder in your OS/"ROMS" partition
 7. Boot into GarlicOS
+
+
+## Make your own color scheme
+
+I've added .psd files (open them up in Adobe Photoshop ~2022) so anyone can make modifications to the icons/boot logo

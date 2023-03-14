@@ -4,6 +4,6 @@
 	"color-guide": "#ffffff",
 	"color-inactive": "#6b6b6b",
 	"color-active": "#ffffff",
-	"color-favorite-inactive": "#cfe1fc",
-	"color-favorite-active": "#94D6FC"
+	"color-favorite-inactive": "#b2dfdb",
+	"color-favorite-active": "#99F0DB"
 }
