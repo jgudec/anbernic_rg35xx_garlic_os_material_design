@@ -1,0 +1,9 @@
+{
+	"text-alignment": "center",
+	"text-margin": 16,
+	"color-guide": "#ffffff",
+	"color-inactive": "#6b6b6b",
+	"color-active": "#ffffff",
+	"color-favorite-inactive": "#2e3033",
+	"color-favorite-active": "#cfe1fc"
+}
