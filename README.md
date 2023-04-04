@@ -15,3 +15,15 @@
 ## Make your own color scheme
 
 I've added .psd files (open them up in Adobe Photoshop ~2022) so anyone can make modifications to the icons/boot logo
+
+## GBA overlays
+
+If you want to have GBA overlays (be it with or without the screen filters), just take the files from "GBA_overlays" and put them into 
+```I:\CFW\retroarch\.retroarch\overlay```
+
+After that:
+1. Enable the original GBA scaling by enabling 
+```Settings > Video > Scaling > Keep Aspect Ratio ```
+2. Go to 
+```Settings > On-Screen Display > On-Screen Overlay > Overlay Preset```
+ and choose the overlay you want
